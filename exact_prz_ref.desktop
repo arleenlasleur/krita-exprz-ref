@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=exact_prz_ref
+X-Python-2-Compatible=false
+X-Krita-PluginInfo-Author=Arleen Lasleur
+X-Krita-PluginInfo-Description=Synchronous reference docker
+X-Krita-PluginInfo-Version=0.3.1
+X-Krita-PluginInfo-License=MIT
+X-Krita-PluginInfo-EnabledByDefault=true
+Comment=Synchronous reference docker
+Name=Exact Area Reference
