@@ -8,11 +8,11 @@ Replicate pan/rotate/zoom from Krita canvas to docker. If you zoom your artwork 
 
 ## Controls
 
-Source/target DPI: resolution, screen or pixel density compensator; for multi-monitor usage
-Load: show file open dialog
-Paste: use clipboard data as image (also supports absolute filename)
-Clear: remove reference image
-Realign: no matter of current canvas position, link image to center of window
+Source/target DPI: resolution, screen or pixel density compensator; for multi-monitor usage  
+Load: show file open dialog  
+Paste: use clipboard data as image (also supports absolute filename)  
+Clear: remove reference image  
+Realign: no matter of current canvas position, link image to center of window  
 Mouse drag: adjust relative pan
 
 ## Install
