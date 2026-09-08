@@ -17,7 +17,7 @@ Mouse drag: adjust relative pan
 
 ## Install
 
-Menu -> Tools -> Scripts -> Install python plugin from file
+Menu -> Tools -> Scripts -> Install python plugin from file  
 Or, copy/unzip into %appdata%\krita\pykrita dir.
 
 ## Further plans
